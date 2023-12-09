@@ -24,7 +24,7 @@ public class Player : MonoBehaviour
         //MovingWithTransformPosition();
         //MovingWithTransformTranslate();
         //MovingWithVelocity();
-        MovingWithVelocity();
+        //MovingWithVelocity();
     }
 
     private void MovingWithTransformPosition()
